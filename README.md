@@ -21,7 +21,7 @@ This project is an AI-driven solution designed to assess and reduce plastic wast
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/sophiyaaaa/AI_THON.git
    cd your-repo-name
    ```
 2. Install dependencies:
