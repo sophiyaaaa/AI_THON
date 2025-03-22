@@ -10,13 +10,13 @@ This project is an AI-driven solution designed to assess and reduce plastic wast
 - Customized sustainability strategies for industries
 - Integration with existing industrial processes
 - User-friendly API for seamless deployment
-
+  
 ## Tech Stack
 - **Backend:** Flask (Python)
-- **Machine Learning:** Scikit-Learn, Pandas, NumPy
+- **Machine Learning and Artificial Intelligence:** Scikit-Learn, Pandas, NumPy,Random Forest
 - **Database:** CSV-based storage (can be extended to SQL/NoSQL databases)
 - **Model Deployment:** Pickle for AI model serialization
-- **Frontend (optional):** HTML, JavaScript (if UI is required)
+
 
 ## Installation
 1. Clone the repository:
